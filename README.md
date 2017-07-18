@@ -1,8 +1,9 @@
 # blog-site
-This is a bare bones, MVP personal site iwth a blog in Django. 
+This is a bare bones, MVP, personal site with a blog  made in Django. 
 Submitted to fulfill the basic requirements of my long overdue "Capstone" project.
 I look forward to soon digging in on a cool personal project when circumstances permit, 
-but for now I humbly submit this old project, copied over from a tutorial done back in may, and presented here as a formality to say 
+but for now I humbly submit this old project, copied over from a tutorial done back in may, and presented here to say 
+
 "Here you go. Hope this works."
 
 The purpose here is just to display a working knowledge of a basic Django project.
@@ -12,7 +13,7 @@ Each of these consist of some basic django magic.
 
 # Check it Out
 
-clone it and hop into the directoryblog:
+clone it and hop into the directory:
 
 ```
 git clone https://github.com/caseydailey/blog-site.git
@@ -27,8 +28,9 @@ python manage.py runserver
 
 ```
 
-Navigate to http://127.0.0.1:8000/ and click around!
-You'll see what I'm talking about when I say barebones, but it's all there.
+Now navigate to http://127.0.0.1:8000/ and click around!
+
+You'll see what I'm talking about when I say bare-bones, but it's all there.
 The project has mulitple apps to handle the main parts of the app seperately and provide some level of "scalability".
 Views and URLs are set up to facilitate movement throughout and static files are linked in and loaded to allow for easy custome styling using bootstrap.
 
@@ -47,5 +49,5 @@ django123
 ```
 
 
-
+Now you can create blog posts with HTML formatting! yay Django!
 
