@@ -5,9 +5,7 @@ I look forward to soon digging in on a cool personal project when circumstances 
 but for now I humbly submit this old project, based on a tutorial done back in may, and presented here to say 
 
 "Here you go. Hope this works?"
-
-I've set up a basic site utilizing much of django's basic coolness. There are multiple apps in the project. 
-Each of these consist of some basic django magic. 
+ 
 
 # Check it Out
 
