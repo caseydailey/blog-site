@@ -6,8 +6,6 @@ but for now I humbly submit this old project, based on a tutorial done back in m
 
 "Here you go. Hope this works."
 
-The purpose here is just to display a working knowledge of a basic Django project.
-
 I've set up a basic site utilizing much of django's basic coolness. There are multiple apps in the project. 
 Each of these consist of some basic django magic. 
 
