@@ -2,7 +2,7 @@
 This is a bare bones, MVP, personal site with a blog  made in Django. 
 Submitted to fulfill the basic requirements of my long overdue "Capstone" project.
 I look forward to soon digging in on a cool personal project when circumstances permit, 
-but for now I humbly submit this old project, copied over from a tutorial done back in may, and presented here to say 
+but for now I humbly submit this old project, based on a tutorial done back in may, and presented here to say 
 
 "Here you go. Hope this works."
 
