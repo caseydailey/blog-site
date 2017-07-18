@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+# not much to say here, as we're using generic views to handle things over in blog/urls.py

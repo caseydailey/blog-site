@@ -4,6 +4,9 @@
 
     <h3>{{post.title}}</h3>
     <h6>on {{post.date}}</h6>
+    <!-- give us the body, allow our HTML to be interpreted 
+    (we know it's safe because it's coming only from admin) 
+    also, give us linebreaks where there's linebreaks-->
     {{post.body|safe|linebreaks}}
 
 {% endblock %}
