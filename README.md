@@ -28,17 +28,17 @@ Now navigate to http://127.0.0.1:8000/ and click around!
 
 You'll see what I'm talking about when I say bare-bones, but it's all there.
 The project has mulitple apps to handle the main parts of the app seperately and provide some level of "scalability".
-Views and URLs are set up to facilitate movement throughout and static files are linked in and loaded to allow for easy custome styling using bootstrap.
+Views and URLs are set up to facilitate movement throughout (learned about generic views--which are fantastic) and static files are linked in and loaded to allow for easy custom styling using bootstrap.  
 
 
-If you want to acces the CRUD portion of the app, got to http://127.0.0.1:8000/admin
-and login as 
+If you want to create posts in the app, go to http://127.0.0.1:8000/admin
+and login as: 
 
 ```
 casey 
 ```
 
-with the password
+with the password:
 
 ```
 django123
@@ -46,4 +46,6 @@ django123
 
 
 Now you can create blog posts with HTML formatting! yay Django!
+
+Thank You!
 
